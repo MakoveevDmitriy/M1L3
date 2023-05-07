@@ -33,4 +33,4 @@ async def on_message(message):
             return random.choice(emoji)
     else:
         await message.channel.send(message.content)
-client.run("MTEwNDY3NDAyMjc5NDQ2NTM4MA.G-lX4n.TnDYOirN3YhsPDtVJDxQZBHvNcUn-mkqEi6Fx0")
+
