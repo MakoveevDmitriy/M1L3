@@ -26,6 +26,7 @@ async def on_message(message):
     elif message.content.startswith('подбрось монетку'):
         a = random.randint('орёл', 'решка')
         print(a)
+    elif
     
     elif message.content.startswith('смайлик'):
         def gen_emodji():
